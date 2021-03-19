@@ -1,0 +1,19 @@
+.profile{
+      font-family: 'Dancing Script', cursive;
+      display: grid;
+     grid-template-columns: 20% 50%;
+     column-gap: 200px;;
+     margin: 100px;
+     padding: 50px;
+     border: solid 2px black;
+
+}
+.fullName{
+     text-align: center;
+
+}
+.fields{
+      text-decoration: underline;
+      padding: 20px;
+      color: blueviolet;
+}
